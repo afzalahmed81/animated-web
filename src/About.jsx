@@ -1,5 +1,5 @@
 import React from 'react';
-import ReactDom from 'react-dom';
+// import ReactDom from 'react-dom';
 import Commons from './Commons';
 import web2 from '../src/images/pic2.jpg';
 
