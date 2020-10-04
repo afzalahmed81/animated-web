@@ -39,3 +39,4 @@ jobs:
       
     - name: deploying on surge
       run: surge ./build http://web-animated-afzal.surge.sh/ --token ${{ secrets.SURGE_TOKEN }}
+      
