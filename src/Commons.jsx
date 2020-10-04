@@ -23,7 +23,7 @@ const Commons=(props)=> {
 
         </div>
          <div className="col-lg-6 order-1 orderlg-2 header-img">
-             <img src={props.imgsrc} className="img-fluid animated"></img>  
+             <img src={props.imgsrc} className="img-fluid animated" alt=""></img>  
         </div>
 
         </div>
